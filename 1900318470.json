@@ -60,11 +60,6 @@
       "title": "TTT Banana Bomb",
       "author": "https://steamcommunity.com/id/bocciardolight"
     },
-    "922334896": {
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=922334896",
-      "title": "TTT Chicken",
-      "author": "https://steamcommunity.com/id/bocciardolight"
-    },
     "1659437311": {
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1659437311",
       "title": "TTT Chickenator (T Weapon)",
@@ -440,11 +435,6 @@
       "title": "[TTT2] Amnesiac [ROLE]",
       "author": "https://steamcommunity.com/id/Lunexkun"
     },
-    "2005666160": {
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2005666160",
-      "title": "[TTT2] 3D Pointer [FEATURE]",
-      "author": "https://steamcommunity.com/id/mineotopia"
-    },
     "2002031048": {
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2002031048",
       "title": "[TTT2] Weapon Statistics [FEATURE]",
@@ -454,6 +444,76 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2076189106",
       "title": "[TTT2] Barnacle [Improved]",
       "author": "https://steamcommunity.com/id/leolele"
+    },
+    "738815378": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=738815378",
+      "title": "[TTT] Genji's Katana",
+      "author": "https://steamcommunity.com/id/Xopez1"
+    },
+    "292920013": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=292920013",
+      "title": "Briefcase Bomb SWEP (TTT/Sandbox)",
+      "author": "https://steamcommunity.com/id/_hoff"
+    },
+    "1199179847": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1199179847",
+      "title": "Omae wa mou shindeiru",
+      "author": "https://steamcommunity.com/id/FroggyAmp"
+    },
+    "290282950": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=290282950",
+      "title": "Riot Shield",
+      "author": "https://steamcommunity.com/id/jordiebg"
+    },
+    "911182038": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=911182038",
+      "title": "TTT - Headcrab Launcher",
+      "author": "https://steamcommunity.com/profiles/76561197962666478"
+    },
+    "254177214": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=254177214",
+      "title": "[TTT] Jihad Bomb (Charred Corpse)",
+      "author": "https://steamcommunity.com/id/zaratusa"
+    },
+    "295891462": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=295891462",
+      "title": "Orbital Bass Cannon + updatet Picture",
+      "author": "https://steamcommunity.com/id/jostitoasty"
+    },
+    "1149640925": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1149640925",
+      "title": "TTT TeamChanger",
+      "author": "https://steamcommunity.com/id/Iceotty"
+    },
+    "620936792": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=620936792",
+      "title": "TTT Homing Pigeon",
+      "author": "https://steamcommunity.com/id/realgamefreak"
+    },
+    "1092624255": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1092624255",
+      "title": "Jenssons (Sandbox\\TTT) Mimic Spawner (T Weapon)",
+      "author": "https://steamcommunity.com/profiles/76561198044525091"
+    },
+    "1170954021": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1170954021",
+      "title": "Jenssons TTT Terror Mech (T Weapon)",
+      "author": "https://steamcommunity.com/profiles/76561198044525091"
+    },
+    "519467202": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=519467202",
+      "title": "TTT_Explosive_Barrel_placer",
+      "author": "https://steamcommunity.com/id/8_Lambda_8"
+    },
+    "1390915062": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1390915062",
+      "title": "Thomas TTT Weapon",
+      "author": "https://steamcommunity.com/id/76561198035044787"
+    },
+    "496383004": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=496383004",
+      "title": "World War II weapons for TTT",
+      "author": "https://steamcommunity.com/id/Royallll"
     }
   },
   "collections": {
@@ -1148,6 +1208,11 @@
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=401568227",
           "title": "Crash Twinsanity Player Model",
           "author": "https://steamcommunity.com/id/Mikethemic"
+        },
+        "272591265": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=272591265",
+          "title": "Chat Tags (ULX Only)",
+          "author": "https://steamcommunity.com/id/CaptainDeagle62"
         }
       },
       "collections": {}
@@ -1342,7 +1407,7 @@
         "1886425508": {
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1886425508",
           "title": "ttt_urbanartpass",
-          "author": "https://steamcommunity.com/id/1Bc56nMliabsBAq"
+          "author": "https://steamcommunity.com/id/LLlaoWqq-02"
         },
         "1129127128": {
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1129127128",
@@ -1638,11 +1703,6 @@
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=442279607",
           "title": "ttt_vannah",
           "author": "https://steamcommunity.com/id/Devilswarchild"
-        },
-        "321534445": {
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=321534445",
-          "title": "ttt_toysoldiers",
-          "author": "https://steamcommunity.com/id/ComradeXaZ"
         },
         "337311940": {
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=337311940",

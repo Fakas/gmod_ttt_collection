@@ -177,7 +177,7 @@
     },
     "1357204556": {
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1357204556",
-      "title": "TTT2 (Base) - v0.6.4b - New Roles, Extensible, Better Performance, ULX Support",
+      "title": "TTT2 (Base) - v0.7b - New Roles, Extensible, Better Performance, ULX Support",
       "author": "https://steamcommunity.com/id/alf21"
     },
     "1795267605": {
@@ -189,21 +189,6 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1137482209",
       "title": "[TTT2] Silentstep",
       "author": "https://steamcommunity.com/id/saibotk"
-    },
-    "1398644175": {
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1398644175",
-      "title": "[TTT2] NoExplosionDamage [ITEM]",
-      "author": "https://steamcommunity.com/id/alf21"
-    },
-    "1398644125": {
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1398644125",
-      "title": "[TTT2] NoFallDamage [ITEM]",
-      "author": "https://steamcommunity.com/id/alf21"
-    },
-    "1405055750": {
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1405055750",
-      "title": "[TTT2] NoFireDamage [ITEM]",
-      "author": "https://steamcommunity.com/id/alf21"
     },
     "185609021": {
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=185609021",
@@ -1213,6 +1198,11 @@
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=272591265",
           "title": "Chat Tags (ULX Only)",
           "author": "https://steamcommunity.com/id/CaptainDeagle62"
+        },
+        "1762701148": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1762701148",
+          "title": "Cats from Jazztronauts PMs",
+          "author": "https://steamcommunity.com/id/linxu"
         }
       },
       "collections": {}

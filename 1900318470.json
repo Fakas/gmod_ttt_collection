@@ -115,6 +115,11 @@
       "title": "Error Flashbang",
       "author": "https://steamcommunity.com/id/Thorwin99"
     },
+    "1406495040": {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1406495040",
+      "title": "TTT Randomat 2.0",
+      "author": "https://steamcommunity.com/profiles/76561198076733538"
+    },
     "456189236": {
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=456189236",
       "title": "[Gamemode: TTT] Traitor Harpoon",
@@ -1203,7 +1208,633 @@
       "collections": {}
     },
     "1910591698": {
-      "items": {},
+      "items": {
+        "504118357": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=504118357",
+          "title": "Crisis - TTT",
+          "author": "https://steamcommunity.com/id/DannyJudas"
+        },
+        "123897138": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=123897138",
+          "title": "Gunkanjima [ttt]",
+          "author": "https://steamcommunity.com/id/robinkooli"
+        },
+        "731330193": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=731330193",
+          "title": "TTT_Canvas",
+          "author": "https://steamcommunity.com/id/glitchvid"
+        },
+        "106560489": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=106560489",
+          "title": "TTT_Catacombs",
+          "author": "https://steamcommunity.com/id/Citizen001"
+        },
+        "1812218146": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1812218146",
+          "title": "TTT_DYSTOPIA",
+          "author": "https://steamcommunity.com/id/TheBlueBot"
+        },
+        "548149342": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=548149342",
+          "title": "TTT_Doom",
+          "author": "https://steamcommunity.com/id/steamcommunitysomething"
+        },
+        "1368516670": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1368516670",
+          "title": "TTT_Glass",
+          "author": "https://steamcommunity.com/id/Sandshee"
+        },
+        "1361330745": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1361330745",
+          "title": "TTT_Icaria",
+          "author": "https://steamcommunity.com/id/Sandshee"
+        },
+        "1631864277": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1631864277",
+          "title": "TTT_Oilrig",
+          "author": "https://steamcommunity.com/id/Tankthemadman"
+        },
+        "728570439": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=728570439",
+          "title": "TTT_Vacuity",
+          "author": "https://steamcommunity.com/id/mikeOpt"
+        },
+        "1909199778": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1909199778",
+          "title": "[TTT] YogsTheatre - A Broadway theatre map",
+          "author": "https://steamcommunity.com/id/mreffgee"
+        },
+        "1331573006": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1331573006",
+          "title": "ttt_Castle",
+          "author": "https://steamcommunity.com/profiles/76561198074743726"
+        },
+        "909728557": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=909728557",
+          "title": "ttt_Cipher",
+          "author": "https://steamcommunity.com/id/briancmv"
+        },
+        "1727488779": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1727488779",
+          "title": "ttt_Condemned",
+          "author": "https://steamcommunity.com/id/briancmv"
+        },
+        "1616390485": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1616390485",
+          "title": "ttt_SeveralConnectedCourtyards",
+          "author": "https://steamcommunity.com/profiles/76561198087419337"
+        },
+        "1510565163": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1510565163",
+          "title": "ttt_Sewer",
+          "author": "https://steamcommunity.com/id/Oploz"
+        },
+        "671993388": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=671993388",
+          "title": "ttt_apartment",
+          "author": "https://steamcommunity.com/id/therealsovietzombie"
+        },
+        "303059376": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=303059376",
+          "title": "ttt_arctic",
+          "author": "https://steamcommunity.com/id/Thigoron"
+        },
+        "1475589106": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1475589106",
+          "title": "ttt_bikinibottom",
+          "author": "https://steamcommunity.com/id/hillrop"
+        },
+        "1555613589": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1555613589",
+          "title": "ttt_bricked",
+          "author": "https://steamcommunity.com/id/v-rat"
+        },
+        "665797799": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=665797799",
+          "title": "ttt_drybonesvillage",
+          "author": "https://steamcommunity.com/id/vDryBones"
+        },
+        "228041314": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=228041314",
+          "title": "ttt_glacier",
+          "author": "https://steamcommunity.com/id/jim-onions"
+        },
+        "867635838": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=867635838",
+          "title": "ttt_grovestreet",
+          "author": "https://steamcommunity.com/profiles/76561198092512608"
+        },
+        "912722937": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=912722937",
+          "title": "ttt_junction",
+          "author": "https://steamcommunity.com/id/atummy"
+        },
+        "1897777648": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1897777648",
+          "title": "ttt_krustykrab",
+          "author": "https://steamcommunity.com/profiles/76561198180616475"
+        },
+        "1299035924": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1299035924",
+          "title": "ttt_oldruins",
+          "author": "https://steamcommunity.com/profiles/76561197981700517"
+        },
+        "1388481216": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1388481216",
+          "title": "ttt_poolparty",
+          "author": "https://steamcommunity.com/id/Silmos"
+        },
+        "1397098145": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1397098145",
+          "title": "ttt_rpgvillage",
+          "author": "https://steamcommunity.com/profiles/76561197981700517"
+        },
+        "1665800618": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1665800618",
+          "title": "ttt_sens",
+          "author": "https://steamcommunity.com/profiles/76561198024370442"
+        },
+        "943154929": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=943154929",
+          "title": "ttt_skycraftfinal",
+          "author": "https://steamcommunity.com/id/Xopez1"
+        },
+        "1524447060": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1524447060",
+          "title": "ttt_spotted",
+          "author": "https://steamcommunity.com/id/astralslash"
+        },
+        "1294606759": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1294606759",
+          "title": "ttt_stardestroyer",
+          "author": "https://steamcommunity.com/id/lordtrilobite"
+        },
+        "949158837": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=949158837",
+          "title": "ttt_submarine",
+          "author": "https://steamcommunity.com/id/boris_fps"
+        },
+        "937248766": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=937248766",
+          "title": "ttt_tenement",
+          "author": "https://steamcommunity.com/profiles/76561198000524107"
+        },
+        "204621664": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=204621664",
+          "title": "ttt_terrortown",
+          "author": "https://steamcommunity.com/id/mightybaby"
+        },
+        "1754403970": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1754403970",
+          "title": "ttt_tinytown",
+          "author": "https://steamcommunity.com/profiles/76561197981700517"
+        },
+        "365484855": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=365484855",
+          "title": "ttt_troubleisland",
+          "author": "https://steamcommunity.com/profiles/76561197981700517"
+        },
+        "1886425508": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1886425508",
+          "title": "ttt_urbanartpass",
+          "author": "https://steamcommunity.com/id/cubedededed"
+        },
+        "1129127128": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1129127128",
+          "title": "Abandoned Bunker (TTT)",
+          "author": "https://steamcommunity.com/id/kammorne"
+        },
+        "288720954": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=288720954",
+          "title": "ttt_vegas",
+          "author": "https://steamcommunity.com/id/bocciardolight"
+        },
+        "253297309": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=253297309",
+          "title": "ttt_airbus_b3",
+          "author": "https://steamcommunity.com/id/zaratusa"
+        },
+        "141103402": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=141103402",
+          "title": "ttt_bb_teenroom_b2",
+          "author": "https://steamcommunity.com/profiles/76561198027380917"
+        },
+        "284614653": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=284614653",
+          "title": "ttt_equilibre",
+          "author": "https://steamcommunity.com/id/blah91"
+        },
+        "147635981": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=147635981",
+          "title": "ttt_forest_final",
+          "author": "https://steamcommunity.com/id/shifty_pete"
+        },
+        "135894827": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=135894827",
+          "title": "ttt_foundation_a1",
+          "author": "https://steamcommunity.com/id/violation_sng"
+        },
+        "1219185412": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1219185412",
+          "title": "ttt_pelicantown",
+          "author": "https://steamcommunity.com/profiles/76561198033244983"
+        },
+        "121935805": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121935805",
+          "title": "TTT_Vessel",
+          "author": "https://steamcommunity.com/id/jollibee86"
+        },
+        "253328815": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=253328815",
+          "title": "ttt_skyscraper",
+          "author": "https://steamcommunity.com/id/zaratusa"
+        },
+        "534491717": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=534491717",
+          "title": "ttt_rooftops_2016",
+          "author": "https://steamcommunity.com/id/youmenow1"
+        },
+        "1092110486": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1092110486",
+          "title": "TTT_Peachs_Castle (Super Mario 64)",
+          "author": "https://steamcommunity.com/id/5356555324"
+        },
+        "131586546": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=131586546",
+          "title": "ttt_bb_suburbia_b3",
+          "author": "https://steamcommunity.com/profiles/76561198027380917"
+        },
+        "124463722": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=124463722",
+          "title": "ttt_bb_outpost57_b5",
+          "author": "https://steamcommunity.com/profiles/76561198027380917"
+        },
+        "117743323": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=117743323",
+          "title": "ttt_bb_canalwarehousev2_r3",
+          "author": "https://steamcommunity.com/profiles/76561198027380917"
+        },
+        "106498411": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=106498411",
+          "title": "ttt_mc_skyislands",
+          "author": "https://steamcommunity.com/id/Paimail"
+        },
+        "131667838": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=131667838",
+          "title": "ttt_community_bowling",
+          "author": "https://steamcommunity.com/id/bender180"
+        },
+        "260153473": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=260153473",
+          "title": "ttt_mc_mineshaft",
+          "author": "https://steamcommunity.com/id/mathearn"
+        },
+        "252730596": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=252730596",
+          "title": "ttt_minecraftcity_v4fixed",
+          "author": "https://steamcommunity.com/id/yrngang"
+        },
+        "266354490": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=266354490",
+          "title": "ttt_parking_alley",
+          "author": "https://steamcommunity.com/id/NeoHL"
+        },
+        "229003350": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=229003350",
+          "title": "ttt_residentevil2_se",
+          "author": "https://steamcommunity.com/id/gamefreak2205"
+        },
+        "251767037": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=251767037",
+          "title": "ttt_sandraiders",
+          "author": "https://steamcommunity.com/id/MenteR"
+        },
+        "133911194": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=133911194",
+          "title": "ttt_theship_v1",
+          "author": "https://steamcommunity.com/id/violation_sng"
+        },
+        "251298929": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=251298929",
+          "title": "ttt_underside",
+          "author": "https://steamcommunity.com/id/bungeetaco"
+        },
+        "110656185": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=110656185",
+          "title": "TTT Terrorception",
+          "author": "https://steamcommunity.com/id/raubana"
+        },
+        "196978840": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=196978840",
+          "title": "ttt_old_factory",
+          "author": "https://steamcommunity.com/id/barkingleaves"
+        },
+        "195227686": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=195227686",
+          "title": "TTT_Dolls",
+          "author": "https://steamcommunity.com/id/Delta7x"
+        },
+        "175352638": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=175352638",
+          "title": "ttt_office_space",
+          "author": "https://steamcommunity.com/profiles/76561198065639772"
+        },
+        "270494654": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=270494654",
+          "title": "ttt_mc_tiptsky_b5",
+          "author": "https://steamcommunity.com/id/fannney"
+        },
+        "220740097": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=220740097",
+          "title": "ttt_clocktown_v1",
+          "author": "https://steamcommunity.com/id/code_gs"
+        },
+        "379662785": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=379662785",
+          "title": "[TTT] ttt_pacman_v1",
+          "author": "https://steamcommunity.com/id/fatisko"
+        },
+        "1951413433": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1951413433",
+          "title": "ttt_yoshi_island",
+          "author": "https://steamcommunity.com/id/MaestroN76"
+        },
+        "1524329928": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1524329928",
+          "title": "ttt_gameboyadventure",
+          "author": "https://steamcommunity.com/profiles/76561197981700517"
+        },
+        "1112643697": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1112643697",
+          "title": "TTT_MysteryShack",
+          "author": "https://steamcommunity.com/id/5356555324"
+        },
+        "1134338909": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1134338909",
+          "title": "ttt_sonic",
+          "author": "https://steamcommunity.com/id/5356555324"
+        },
+        "1832998593": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1832998593",
+          "title": "ttt_minecraft_b5_fish_n_ships",
+          "author": "https://steamcommunity.com/profiles/76561198113216730"
+        },
+        "1661804771": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1661804771",
+          "title": "ttt_minecraft_stronghold",
+          "author": "https://steamcommunity.com/id/mainscript033"
+        },
+        "1653427864": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1653427864",
+          "title": "ttt_LiesInTheHighRise",
+          "author": "https://steamcommunity.com/profiles/76561198087419337"
+        },
+        "1650787541": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1650787541",
+          "title": "ttt_DastardlyVault",
+          "author": "https://steamcommunity.com/id/DastardlyDutch"
+        },
+        "1642752842": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1642752842",
+          "title": "Cyberpunk Wickford TTT",
+          "author": "https://steamcommunity.com/profiles/76561198094025593"
+        },
+        "372413150": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=372413150",
+          "title": "ttt_Docks",
+          "author": "https://steamcommunity.com/id/Denninos"
+        },
+        "1564071770": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1564071770",
+          "title": "TTT_GoneWrong",
+          "author": "https://steamcommunity.com/profiles/76561198087419337"
+        },
+        "652423997": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=652423997",
+          "title": "ttt_craftroom - Minecraft Rats",
+          "author": "https://steamcommunity.com/id/HottestBoyOnSteam"
+        },
+        "1578064059": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1578064059",
+          "title": "ttt_happyhome",
+          "author": "https://steamcommunity.com/profiles/76561198094025593"
+        },
+        "1543018051": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1543018051",
+          "title": "TTT_mc_little_castle",
+          "author": "https://steamcommunity.com/id/diefisch"
+        },
+        "1527075355": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1527075355",
+          "title": "ttt_Cryptic_Keep",
+          "author": "https://steamcommunity.com/id/Oploz"
+        },
+        "1519268549": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1519268549",
+          "title": "TTT_Like 7 Pyramids",
+          "author": "https://steamcommunity.com/profiles/76561198087419337"
+        },
+        "467518968": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=467518968",
+          "title": "ttt_mc_desert",
+          "author": "https://steamcommunity.com/profiles/76561198063100421"
+        },
+        "1463001141": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1463001141",
+          "title": "ttt_Arcane_Mine",
+          "author": "https://steamcommunity.com/id/Oploz"
+        },
+        "308393692": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=308393692",
+          "title": "ttt_nether",
+          "author": "https://steamcommunity.com/profiles/76561198063100421"
+        },
+        "1285524936": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1285524936",
+          "title": "TTT - Water Synergy",
+          "author": "https://steamcommunity.com/id/Freedark"
+        },
+        "1213282380": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1213282380",
+          "title": "TTT_Eclipse_v4",
+          "author": "https://steamcommunity.com/id/mikeOpt"
+        },
+        "643327166": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=643327166",
+          "title": "ttt_clocktower",
+          "author": "https://steamcommunity.com/id/stealth121"
+        },
+        "288523538": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=288523538",
+          "title": "ttt_Rooftops_Lost",
+          "author": "https://steamcommunity.com/id/Paimail"
+        },
+        "862952150": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=862952150",
+          "title": "TTT_minecraft_Shattered",
+          "author": "https://steamcommunity.com/id/KleinMeister"
+        },
+        "442279607": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=442279607",
+          "title": "ttt_vannah",
+          "author": "https://steamcommunity.com/id/Devilswarchild"
+        },
+        "337311940": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=337311940",
+          "title": "ttt_terraria",
+          "author": "https://steamcommunity.com/profiles/76561198087440101"
+        },
+        "844793292": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=844793292",
+          "title": "TTT_Minecraft_Snowden",
+          "author": "https://steamcommunity.com/id/Vuhdo"
+        },
+        "365417294": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=365417294",
+          "title": "ttt_metropolis_v2a",
+          "author": "https://steamcommunity.com/id/tctully"
+        },
+        "186842624": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=186842624",
+          "title": "ttt_minecraftcity_v4",
+          "author": "https://steamcommunity.com/id/v_rico"
+        },
+        "843525860": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=843525860",
+          "title": "ttt_minecraft_expedition_small",
+          "author": "https://steamcommunity.com/id/un0btanium"
+        },
+        "169342118": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=169342118",
+          "title": "ttt_casino_b2",
+          "author": "https://steamcommunity.com/id/colek38"
+        },
+        "229861690": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=229861690",
+          "title": "Secluded - TTT, Prophunt",
+          "author": "https://steamcommunity.com/id/DannyJudas"
+        },
+        "389346280": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=389346280",
+          "title": "ttt_minecraft_haven",
+          "author": "https://steamcommunity.com/id/spookfulet"
+        },
+        "118937144": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=118937144",
+          "title": "ttt_lttp_kakariko",
+          "author": "https://steamcommunity.com/id/sardonicWarrior"
+        },
+        "433367884": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=433367884",
+          "title": "ttt_mc_downtown",
+          "author": "https://steamcommunity.com/id/Frankloco"
+        },
+        "1490186898": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1490186898",
+          "title": "ttt_clue_2018",
+          "author": "https://steamcommunity.com/id/therealsovietzombie"
+        },
+        "911842557": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=911842557",
+          "title": "ttt_minecraft_skies",
+          "author": "https://steamcommunity.com/profiles/76561198072303069"
+        },
+        "577194263": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=577194263",
+          "title": "ttt_minecraft_manor",
+          "author": "https://steamcommunity.com/id/Vuhdo"
+        },
+        "325296102": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=325296102",
+          "title": "TTT_Atlantis_v3",
+          "author": "https://steamcommunity.com/id/chevron7locked"
+        },
+        "1233896083": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1233896083",
+          "title": "TTT_MC_Island17",
+          "author": "https://steamcommunity.com/id/canadianbill"
+        },
+        "1784019481": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1784019481",
+          "title": "ttt_mc_seriouscraft_r [remake]",
+          "author": "https://steamcommunity.com/id/miksheu"
+        },
+        "300472606": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=300472606",
+          "title": "ttt_mcpier_v2_fix",
+          "author": "https://steamcommunity.com/profiles/76561198063100421"
+        },
+        "106527577": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=106527577",
+          "title": "TTT_Lost_Temple",
+          "author": "https://steamcommunity.com/id/Citizen001"
+        },
+        "1977839195": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1977839195",
+          "title": "ttt_dragonsreach",
+          "author": "https://steamcommunity.com/id/Scahry"
+        },
+        "183797802": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=183797802",
+          "title": "TTT_island_2013",
+          "author": "https://steamcommunity.com/id/shitshit"
+        },
+        "1052672399": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1052672399",
+          "title": "[TTT] Icevault",
+          "author": "https://steamcommunity.com/id/mx_amber"
+        },
+        "1429898675": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1429898675",
+          "title": "ttt_lumbridge_a4",
+          "author": "https://steamcommunity.com/id/violation_sng"
+        },
+        "573496701": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=573496701",
+          "title": "TTT Rivercliff",
+          "author": "https://steamcommunity.com/id/Firstlinsas"
+        },
+        "1927749387": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1927749387",
+          "title": "TTT Nighttrap 2020",
+          "author": "https://steamcommunity.com/id/shadowslasher11X"
+        },
+        "238575181": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=238575181",
+          "title": "ttt_kakariko",
+          "author": "https://steamcommunity.com/id/mad219"
+        },
+        "154177743": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=154177743",
+          "title": "ttt_aircraft_v1b",
+          "author": "https://steamcommunity.com/id/flechita"
+        },
+        "1460748219": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1460748219",
+          "title": "ttt_peragus_b1",
+          "author": "https://steamcommunity.com/id/violation_sng"
+        },
+        "465702015": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=465702015",
+          "title": "ttt_traitor_express",
+          "author": "https://steamcommunity.com/id/The_Sneaky_Spy"
+        },
+        "185097868": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=185097868",
+          "title": "ttt_production",
+          "author": "https://steamcommunity.com/id/mobinet"
+        },
+        "1198663315": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1198663315",
+          "title": "TTT_Nuclear_Power_V4_fix",
+          "author": "https://steamcommunity.com/id/matt2468rv"
+        },
+        "284613981": {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=284613981",
+          "title": "ttt_castle_2011_v3_day",
+          "author": "https://steamcommunity.com/id/blah91"
+        }
+      },
       "collections": {}
     }
   }
